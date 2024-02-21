@@ -1,5 +1,5 @@
-/home/yashksi179/git/SpringBoot-MySql-Docker-Compose/src/main/java/com/example/demo/repository/PersonRepository.java
-/home/yashksi179/git/SpringBoot-MySql-Docker-Compose/src/main/java/com/example/demo/service/PersonService.java
-/home/yashksi179/git/SpringBoot-MySql-Docker-Compose/src/main/java/com/example/demo/BasicApplication.java
-/home/yashksi179/git/SpringBoot-MySql-Docker-Compose/src/main/java/com/example/demo/controller/BasicController.java
-/home/yashksi179/git/SpringBoot-MySql-Docker-Compose/src/main/java/com/example/demo/model/Persons.java
+/home/yashksi179/spring sts/SpringBoot-MySql-Docker-Compose2/src/main/java/com/example/demo/BasicApplication.java
+/home/yashksi179/spring sts/SpringBoot-MySql-Docker-Compose2/src/main/java/com/example/demo/controller/BasicController.java
+/home/yashksi179/spring sts/SpringBoot-MySql-Docker-Compose2/src/main/java/com/example/demo/service/PersonService.java
+/home/yashksi179/spring sts/SpringBoot-MySql-Docker-Compose2/src/main/java/com/example/demo/model/Persons.java
+/home/yashksi179/spring sts/SpringBoot-MySql-Docker-Compose2/src/main/java/com/example/demo/repository/PersonRepository.java

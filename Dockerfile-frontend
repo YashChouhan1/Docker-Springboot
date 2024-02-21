@@ -1,0 +1,11 @@
+# Use the Nginx base image
+FROM nginx:latest
+
+# Copy the static files from the Maven project to the Nginx web root directory
+COPY src/main/resources/static/ /usr/share/nginx/html/
+
+# Expose port 80
+EXPOSE 80
+
+# Start Nginx when the container starts
+CMD ["nginx", "-g", "daemon off;"]
